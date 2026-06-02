@@ -335,11 +335,8 @@
             "key": "51吃瓜",
             "name": "🐬51吃瓜",
             "type": 3,
-            "api": "https://https://fgblh.github.io/uhuj.github.io/51吃瓜.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+           "api":"csp_MissAV",
+           "homePage":https://https://fgblh.github.io/uhuj.github.io/51吃瓜.py
         },
         {
         "key":"WhosTV",
