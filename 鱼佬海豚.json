@@ -567,12 +567,6 @@
             "ua": "okhttp",
             "url": "http://82.156.243.185:33389/fwc.m3u"
         },
-		{
-            "name": "🐬国际TV 有🔞",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "https://raw.githubusercontent.com/yihad168/tv/refs/heads/main/tv.m3u"
-        },
 	    {
             "name": "🐬国际TV",
             "type": 0,
@@ -674,12 +668,6 @@
             "type": 0,
             "ua": "okhttp",
             "url": "https://php.946985.filegear-sg.me/jackTV.m3u"
-        },
-        {
-            "name": "🐬台湾频道(梯子台湾节点)",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "https://epg.pw/test_channels_taiwan.m3u"
         },
         { 
 	        "name": "🐬午夜剧场(梯子)🔞",
