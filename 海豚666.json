@@ -457,14 +457,17 @@
             "api": "https://91md.me/api.php/provide/vod/",
             "searchable": 1,
             "changeable": 1
-        }
-        ],
-    "parses": [ 
-       {
-            "name": "聚合",
-            "type": 3,
-            "url": "Web"
         },
+		{
+      "key": "push_agent",
+      "name": "推送",
+      "type": 3,
+      "api": "csp_PushGuard",
+      "searchable": 1,
+      "changeable": 0
+       }
+    ],
+    "parses": [ 
 		{
       "name": "极速",
       "type": 0,
@@ -687,6 +690,7 @@
     }
    ],
     "ads": [
+		"mozai.4gtv.tv",
         "static-mozai.4gtv.tv",
         "pv.vipwm.cc"
     ],
