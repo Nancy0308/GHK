@@ -4,6 +4,12 @@
     "wallpaper":"http://tool.teyonds.com/api",
     "warningText": "注意:如果别人倒卖海豚影视接口收费的都是骗子,没有qq群微信群，只有tg官方交流群 TG：@hshsjk",
     "sites": [
+		{
+			"key": "mf",
+			"name": "🐬木兮",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/木兮.py"
+		},
         {
          "key":"AQY",
         "name":"🐬爱奇艺 海豚影视完全免费，如有收费的都是骗子",
@@ -46,17 +52,17 @@
          "ext": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/茫茫.png"
         },
 		{
-      "key": "MGtv",
-      "name": "🐬芒果TV.py",
-      "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/芒果TV.py"
+           "key": "MGtv",
+           "name": "🐬芒果TV.py",
+           "type": 3,
+           "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/芒果TV.py"
        },
 		{
-      "key": "ppx",
-      "name": "🐬皮皮虾.py",
-      "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/皮皮虾.py",
-      "ext": "http://43.248.117.123:4680"
+           "key": "ppx",
+           "name": "🐬皮皮虾.py",
+           "type": 3,
+           "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/皮皮虾.py",
+           "ext": "http://43.248.117.123:4680"
        },
 		{
 			"key": "fY",
