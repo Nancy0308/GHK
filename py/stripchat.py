@@ -178,13 +178,14 @@ class Spider(Spider):
                 proxy_url = f"{self.getProxyUrl()}&url={quote(full_url)}"
                 # 将画质和URL添加到列表中
                 url.append(qn)
+                url.append(proxy_url)
         result = {}
         result["url"] = url
         result["parse"] = '0'
         result["contentType"] = ''
         result["header"] = self.headers
         return result
-        
+
     def process_m3u8_content_v2(self, m3u8_content):
         lines = m3u8_content.strip().split('\n')
         for i, line in enumerate(lines):
