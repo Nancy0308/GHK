@@ -127,6 +127,12 @@
         "homePage":"https://fgblh.github.io/uhuj.github.io/youtube.html"
         },
 		{
+			"key": "cbh",
+			"name": "🐬茶杯狐.py[追剧]",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/茶杯狐.py"
+		},
+		{
             "key": "ppx",
             "name": "🐬皮皮虾.py[追剧]",
             "type": 3,
