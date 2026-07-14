@@ -32,7 +32,7 @@
         },
         {
            "key": "hajim-腾讯备",
-           "name": "🐬腾讯4K",
+           "name": "🐬腾讯备用",
            "type": 3,
            "api": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
            "searchable": 1,
@@ -60,7 +60,7 @@
         },
 		{
             "key":"youtube",
-            "name":"🐬油管,py",
+            "name":"🐬油管.py",
 			"type": 3,
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/油管.py"
 		},
@@ -72,7 +72,7 @@
        },
 		{
 			"key": "cbh",
-			"name": "🐬茶杯狐.py",
+			"name": "🐬茶杯狐.py(关梯)",
 			"type": 3,
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/茶杯狐.py"
 		},
