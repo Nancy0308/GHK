@@ -182,7 +182,12 @@
           "key": "dm",
           "name": "🐬端木视频.py",
           "type": 3,
-          "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/端木视频.py"
+          "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/端木视频.py",
+		  "style": {
+                "type": "rect",
+                "ratio": 1.33
+          },
+          "changeable": 1
         },
 		{
           "key": "mtyy",
